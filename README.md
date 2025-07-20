@@ -1,4 +1,4 @@
-# shopis-temporary-page
+# shopis Off
 
 Page temporaire affichée pendant la maintenance du site Shopis.
 
