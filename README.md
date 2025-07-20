@@ -3,6 +3,3 @@
 Page temporaire affichée pendant la maintenance du site Shopis.
 
 👉 En attendant, retrouvez-nous sur [Shoppis Wiki](https://shopiswiki.netlify.app/).
-
-Contenu :
-- `index.html` — Page statique simple
